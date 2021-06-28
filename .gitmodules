@@ -1,0 +1,6 @@
+[submodule "raw-blog-frontend"]
+	path = raw-blog-frontend
+	url = https://github.com/RomanTurner/raw-blog-frontend.git
+[submodule "raw-blog-backend"]
+	path = raw-blog-backend
+	url = https://github.com/RomanTurner/raw-blog-backend.git
